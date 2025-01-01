@@ -1,0 +1,16 @@
+theme = tokyonight
+
+window-width = 180
+window-height = 60
+window-padding-balance = true
+
+font-family = "ComicShannsMono Nerd Font"
+font-size = 20
+window-inherit-font-size = true
+
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+mouse-hide-while-typing = true
+
+macos-option-as-alt = true
