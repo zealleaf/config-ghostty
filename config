@@ -1,6 +1,7 @@
-theme = GitHub-Dark-Default
+theme = catppuccin-mocha
 
 font-family = "ComicShannsMono Nerd Font"
+font-family = "苹方-简"
 font-size = 20
 
 window-width = 136
@@ -10,6 +11,7 @@ window-inherit-working-directory = true
 window-inherit-font-size = true
 
 cursor-style = block
+cursor-text = #000000
 cursor-style-blink = false
 shell-integration-features = no-cursor
 mouse-hide-while-typing = true
