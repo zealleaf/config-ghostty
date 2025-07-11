@@ -7,7 +7,7 @@ font-size = 20
 window-width = 136
 window-height = 36
 window-padding-balance = true
-window-inherit-working-directory = true
+window-inherit-working-directory = false
 window-inherit-font-size = true
 
 cursor-style = block
