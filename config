@@ -1,8 +1,8 @@
-theme = catppuccin-macchiato
+theme = Catppuccin Mocha
 
 font-family = "ComicShannsMono Nerd Font"
-font-family = "苹方-简"
-font-size = 20
+font-family = "monospace"
+font-size = 16
 
 window-width = 136
 window-height = 36
@@ -17,3 +17,5 @@ shell-integration-features = no-cursor
 mouse-hide-while-typing = true
 
 macos-option-as-alt = true
+
+keybind = global:ctrl+;=toggle_quick_terminal
